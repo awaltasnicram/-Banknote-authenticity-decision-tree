@@ -16,13 +16,8 @@ https://www.anaconda.com/products/individual#windows
 2. Set of data used in the project - bankot authenticity
 https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 
-Bibliography:
-1. Anaconda- Jupyter 
-https://www.anaconda.com/products/individual#windows
-2. Zestaw danych wykorzystanych w projekcie – autentycznośc bankota 
-https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 
-Bibliografia:
+Bibliography:
 1. http://home.agh.edu.pl/~pmarynow/pliki/iwmet/drzewa.pdf
 2. https://mfiles.pl/pl/index.php/Drzewo_decyzyjne
 3. https://www.naukowiec.org/wiedza/statystyka/wariancja_719.html
